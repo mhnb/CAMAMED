@@ -1,0 +1,6 @@
+p_file1_1.fa
+p_file1_2.fa
+p_file2_1.fa
+p_file2_2.fa
+p_file3_1.fa
+p_file3_2.fa
