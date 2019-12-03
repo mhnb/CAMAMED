@@ -1,0 +1,21 @@
+gene41	K07035	uncharacterized protein	476		
+gene42			32	K07263	1
+gene43			27	K02470	2
+gene44	K02030	ABC.PA.S; polar amino acid transport system substrate-binding protein	175		
+gene45	K03043	rpoB; DNA-directed RNA polymerase subunit beta [EC:2.7.7.6]	484		
+gene46			292	K00248	44
+gene47	K01996	livF; branched-chain amino acid transport system ATP-binding protein	287		
+gene48	K16785	ecfT; energy-coupling factor transport system permease protein	69	K16785/K16786/K16787	4
+gene49	K05349	bglX; beta-glucosidase [EC:3.2.1.21]	148		
+gene50			52		
+gene51			179		
+gene52			197		
+gene53			89		
+gene54	K03300	TC.CITMHS; citrate-Mg2+:H+ or citrate-Ca2+:H+ symporter, CitMHS family	433		
+gene55	K02314	dnaB; replicative DNA helicase [EC:3.6.4.12]	457		
+gene56	K02377	TSTA3; GDP-L-fucose synthase [EC:1.1.1.271]	153		
+gene57			184	K07741	19
+gene58	K02227	cbiB; adenosylcobinamide-phosphate synthase [EC:6.3.1.10]	316		
+gene59	K01489	cdd; cytidine deaminase [EC:3.5.4.5]	122		
+gene60			141	K03733	8
+gene4954	K02377	TSTA3; GDP-L-fucose synthase [EC:1.1.1.271]	153		
