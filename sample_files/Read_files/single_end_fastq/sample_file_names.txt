@@ -1,0 +1,3 @@
+p_file1.fq
+p_file2.fq
+p_file3.fq
