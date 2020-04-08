@@ -1,0 +1,6 @@
+p_file1_1.fq
+p_file1_2.fq
+p_file2_1.fq
+p_file2_2.fq
+p_file3_1.fq
+p_file3_2.fq
