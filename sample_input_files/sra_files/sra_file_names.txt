@@ -1,0 +1,7 @@
+file1.sra
+file2.sra
+file3.sra
+OR
+file1
+file2
+file3
