@@ -1,0 +1,8 @@
+Total sample information Results
+file              format  type  num_seqs    sum_len  min_len  avg_len  max_len
+p_file1_1.fq  FASTQ   DNA     25,000  2,321,338       30     92.9       95
+p_file1_2.fq  FASTQ   DNA     25,000  2,341,969       30     93.7       97
+p_file2_1.fq  FASTQ   DNA     25,000  2,309,136       30     92.4       95
+p_file2_2.fq  FASTQ   DNA     25,000  2,325,400       30       93       97
+p_file3_1.fq  FASTQ   DNA     25,000  2,291,663       30     91.7       95
+p_file3_2.fq  FASTQ   DNA     25,000  2,311,620       30     92.5       97

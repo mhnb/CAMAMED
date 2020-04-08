@@ -1,0 +1,10 @@
+Kruskal-Wallis H-test results
+sample                             	Avg in class1       	Avg in class2       	p-value			p.adjust
+Enterococcus_faecalis              	27.92862135598747   	694.3262695991873   	0.22067136191984324 	0.4965105643196473  
+Klebsiella_pneumoniae              	43.8070327189797    	0.0                 	0.22067136191984324 	0.4965105643196473  
+Ruminococcus_gnavus                	1194.7753752202407  	10604.484400920437  	0.22067136191984324 	0.4965105643196473  
+Ruminococcus_torques               	771.7762521402842   	55286.93744314234   	0.22067136191984324 	0.4965105643196473  
+Butyrivibrio_unclassified          	325.9530822661246   	0.0                 	0.47950012218695337 	0.5394376374603226  
+Escherichia_unclassified           	735.1368246346055   	0.0                 	0.47950012218695337 	0.5394376374603226  
+Mitsuokella_unclassified           	436.810646360963    	0.0                 	0.47950012218695337 	0.5394376374603226  
+Peptostreptococcaceae_noname_unclassified	1299.9081651494582  	0.0                 	0.47950012218695337 	0.5394376374603226  

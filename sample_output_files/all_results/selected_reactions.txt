@@ -1,0 +1,2 @@
+Reaction:R00483	Definition:ATP + L-Aspartate + Ammonia <=> AMP + Diphosphate + L-Asparagine	Equation:C00002+C00049+C00014 <=> C00020+C00013+C00152
+Reaction:R00703	Definition:(S)-Lactate + NAD+ <=> Pyruvate + NADH + H+	Equation:C00186+C00003 <=> C00022+C00004+C00080

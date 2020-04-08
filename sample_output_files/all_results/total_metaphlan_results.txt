@@ -1,0 +1,13 @@
+This file shows the results of Metaphlan on all samples, which are presented in the level of the Species in taxonomic profiling
+Columns The name of the samples and rows is the name of the bacteria in the taxonomic level
+                                   p_file1_1.fq	   p_file1_2.fq	   p_file2_1.fq	   p_file2_2.fq	   p_file3_1.fq	   p_file3_2.fq	
+Butyrivibrio_unclassified   	            0.0	            0.0	            0.0	            0.0	       26.93703	            0.0	
+Coprobacillus_unclassified  	            0.0	            0.0	            0.0	        0.91394	        5.21322	        7.65393	
+Enterococcus_faecalis       	        2.17201	            0.0	            0.0	        2.07598	            0.0	            0.0	
+Escherichia_unclassified    	            0.0	            0.0	            0.0	            0.0	       37.54211	        23.2102	
+Klebsiella_pneumoniae       	        1.98001	            0.0	            0.0	            0.0	        1.51623	            0.0	
+Mitsuokella_unclassified    	            0.0	            0.0	            0.0	            0.0	            0.0	       36.09839	
+Peptostreptococcaceae_noname_unclassified	       24.84548	       76.24843	            0.0	            0.0	            0.0	            0.0	
+Ruminococcus_gnavus         	       10.98143	       23.75157	       13.16106	        18.5455	        28.7914	       33.03747	
+Ruminococcus_torques        	       60.02107	            0.0	       86.83894	       78.46458	            0.0	            0.0	
+unclassified                	            0.0	            0.0	            0.0	            0.0	            0.0	            0.0	
