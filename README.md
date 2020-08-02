@@ -12,3 +12,8 @@ This pipeline can analyze metagenomic samples at both taxonomic ‎and functiona
 
 ****For more information on how to run this software, see the CAMAMED-manual.pdf file.***
 
+Also, this software is available through two Docker images called the camamed_pipeline (without MetaPhlAn2 databases) and the camamed_pipeline_db (with MetaPhlAn2 databases) at www.hub.docker.com.
+(Please refer to https://hub.docker.com/r/camamed/camamed_pipeline_db and https://hub.docker.com/r/camamed/camamed_pipeline) (See Appendix A for better use of the Docker images).
+Note: There is no need to install any software dependencies if you use the Docker image.
+
+
